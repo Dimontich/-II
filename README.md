@@ -43,5 +43,10 @@
 
 ### Строки с функциями АТД
 
-Добавление элемента:
-https://github.com/GrishinAR/Algorithms/blob/master/src/data_structures/Queue.java#L17-27
+Добавление элемента: (строки 17-27)
+https://github.com/GrishinAR/Algorithms/blob/master/src/data_structures/Queue.java#L17
+
+Получение данных из головы очереди: (строки 28-44)
+https://github.com/GrishinAR/Algorithms/blob/master/src/data_structures/Queue.java#L28
+
+Назначение АТД: Этот тип данных применяется в динамическом программировании. С помощью него можно реализовывать алгоритмы, которые позволяют совершить какие-то действия в порядке их поступления, выполнив их последовательно.

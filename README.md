@@ -56,6 +56,8 @@ https://github.com/GrishinAR/Algorithms/blob/master/src/data_structures/Queue.ja
 
 ## Дерево
 
+### Строки с функциями АТД
+
 Проект: https://github.com/hahahu91/alg/blob/0efadb9f73693917041c72fdd0a2c58e6333d0ec/Comp1/Comp1/Comp1.cpp
 
 Добавление узла:

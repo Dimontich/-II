@@ -27,12 +27,21 @@
 
 ### Строки с функциями АТД
 
-Вставка элемента:237  строка   https://github.com/kbliss94/FieaGameEngine/blob/7bb24b8c95e4bad6757b6356e39a8862d965b91f/FieaGameEngine/source/Library.Desktop.Test/VectorTest.cpp#L237
-Удаление элемента:715  строка https://github.com/kbliss94/FieaGameEngine/blob/7bb24b8c95e4bad6757b6356e39a8862d965b91f/FieaGameEngine/source/Library.Desktop.Test/VectorTest.cpp#L715
+Вставка элемента:  https://github.com/kbliss94/FieaGameEngine/blob/7bb24b8c95e4bad6757b6356e39a8862d965b91f/FieaGameEngine/source/Library.Desktop.Test/VectorTest.cpp#L237
 
-Очистка списка:686    строка https://github.com/kbliss94/FieaGameEngine/blob/7bb24b8c95e4bad6757b6356e39a8862d965b91f/FieaGameEngine/source/Library.Desktop.Test/VectorTest.cpp#L686
+Удаление элемента https://github.com/kbliss94/FieaGameEngine/blob/7bb24b8c95e4bad6757b6356e39a8862d965b91f/FieaGameEngine/source/Library.Desktop.Test/VectorTest.cpp#L715
+
+Очистка списка https://github.com/kbliss94/FieaGameEngine/blob/7bb24b8c95e4bad6757b6356e39a8862d965b91f/FieaGameEngine/source/Library.Desktop.Test/VectorTest.cpp#L686
 
 ### Описание назначения АТД
 
 Используемая переменная ``m_contents`` типа ``std::list<...>`` нужна для хранения текста, который будет отображаться у определенных клиентов. Выбранный тип обосновывается набором операций над ним (очистка, удаление элементов, добавление элементов, последовательный обход), а также отсутствием необходимости доступа к i-му элементу.
 
+## Очередь
+
+Проект: https://github.com/GrishinAR/Algorithms/blob/master/src/data_structures/Queue.java
+
+### Строки с функциями АТД
+
+Добавление элемента:
+https://github.com/GrishinAR/Algorithms/blob/master/src/data_structures/Queue.java#L17-27

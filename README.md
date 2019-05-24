@@ -78,4 +78,19 @@ https://github.com/hahahu91/alg/blob/0efadb9f73693917041c72fdd0a2c58e6333d0ec/Co
 ### Описание назначения АТД
 В данном проекте дерево было реализовано для изучения основ программирования, каждый узел хранит в себе информацию и значение уровня.
 
- 
+ ## Множество
+
+Проект: https://github.com/multitheftauto/mtasa-blue
+
+### Строки
+Добавление элемента: 
+https://github.com/multitheftauto/mtasa-blue/blob/e11685cab4beb7958ab202261f9c9d9b4ce71e58/Client/core/CCompressorJobQueue.cpp#L275
+
+Удаление элемента:  
+https://github.com/multitheftauto/mtasa-blue/blob/e11685cab4beb7958ab202261f9c9d9b4ce71e58/Client/core/CCompressorJobQueue.cpp#L177
+
+Определение принадлежности: 
+https://github.com/multitheftauto/mtasa-blue/blob/e11685cab4beb7958ab202261f9c9d9b4ce71e58/Client/core/CCompressorJobQueue.cpp#L182
+
+### Описание 
+Переменная   ``std::set<...>`` нужна для хранения результатов выполнения задач для того, чтобы затем использовать эту информацию . 
